@@ -12,6 +12,7 @@
 		A0A1C9F11C3A81BD0042E8B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0A1C9EF1C3A81BD0042E8B7 /* Main.storyboard */; };
 		A0A1C9F31C3A81BD0042E8B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0A1C9F21C3A81BD0042E8B7 /* Assets.xcassets */; };
 		A0A1C9F61C3A81BD0042E8B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0A1C9F41C3A81BD0042E8B7 /* LaunchScreen.storyboard */; };
+		A0A1C9FE1C3A85BA0042E8B7 /* TextFieldAlertController.gif in Resources */ = {isa = PBXBuildFile; fileRef = A0A1C9FD1C3A85BA0042E8B7 /* TextFieldAlertController.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A0A1C9F21C3A81BD0042E8B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0A1C9F51C3A81BD0042E8B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0A1C9F71C3A81BD0042E8B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0A1C9FD1C3A85BA0042E8B7 /* TextFieldAlertController.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = TextFieldAlertController.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		A0A1C9EA1C3A81BD0042E8B7 /* TextFieldAlertController */ = {
 			isa = PBXGroup;
 			children = (
+				A0A1C9FD1C3A85BA0042E8B7 /* TextFieldAlertController.gif */,
 				A0A1C9EB1C3A81BD0042E8B7 /* AppDelegate.swift */,
 				A0A1C9ED1C3A81BD0042E8B7 /* ViewController.swift */,
 				A0A1C9EF1C3A81BD0042E8B7 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0A1C9F61C3A81BD0042E8B7 /* LaunchScreen.storyboard in Resources */,
+				A0A1C9FE1C3A85BA0042E8B7 /* TextFieldAlertController.gif in Resources */,
 				A0A1C9F31C3A81BD0042E8B7 /* Assets.xcassets in Resources */,
 				A0A1C9F11C3A81BD0042E8B7 /* Main.storyboard in Resources */,
 			);
